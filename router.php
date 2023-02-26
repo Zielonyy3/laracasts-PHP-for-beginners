@@ -27,6 +27,8 @@ $routeMap = [
     '/' => 'index.php',
     '/about' => 'about.php',
     '/contact' => 'contact.php',
+    '/note' => 'note.php',
+    '/notes' => 'notes.php',
 ];
 
 
